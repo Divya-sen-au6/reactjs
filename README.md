@@ -1,5 +1,6 @@
+                    E-Commerce Application(Shoemart)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-E-Commerce Application(Shoemart)
+
 
 ## Available Scripts
 
