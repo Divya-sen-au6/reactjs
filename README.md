@@ -1,4 +1,4 @@
-                    E-Commerce Application(Shoemart)
+                    E-Commerce Application(Shoemart)https://shoemart.herokuapp.com
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
