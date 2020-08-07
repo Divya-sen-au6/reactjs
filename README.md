@@ -1,6 +1,7 @@
                     E-Commerce Application(Shoemart)
-This project was bootstrapped with [Create React App](https://shoemart.herokuapp.com).
+This project was bootstrapped with [Create React App].
 
+##(https://shoemart.herokuapp.com)
 
 ## Available Scripts
 
